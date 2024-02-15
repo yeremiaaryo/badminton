@@ -31,7 +31,7 @@ class MatchConfig {
 	public var absoluteMaximumPoints as Number?;
 
 	function isValid() as Boolean {
-		return type == SINGLE && step == 3 || step == 4;
+		return type == SINGLE && step == 4 || step == 5;
 	}
 }
 

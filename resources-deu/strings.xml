@@ -24,6 +24,11 @@
 	<string id="server_you">Du</string>
 	<string id="server_teammate">Mitspieler</string>
 
+	<string id="how_many_point">How many point?</string>
+	<string id="point_21">21</string>
+	<string id="point_25">25</string>
+	<string id="point_30">30</string>
+
 	<string id="total_rallies">${rallies} Wechsel</string>
 
 	<string id="set_end_you_won">Satz gewonnen!</string>
